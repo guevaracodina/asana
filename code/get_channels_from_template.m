@@ -22,7 +22,7 @@ switch template
     case 'prefrontal'
         % Brite Frontal with 22 long channels and 2 short separation
         % channels using 8 Rx and 10 Tx (for Homer Export)
-        % See https://www.dropbox.com/s/3re9e089u5qolch/Brite_Frontal_22_2_SSC_Homer.png?dl=0
+        % See https://www.dropbox.com/s/qrgdldxsh9e10hn/Brite_Frontal_22_2_SSC_Homer_optodes_template.png?dl=0
         % Channels list
         % 01.	HbO S01D01      R           % 23.	HbO S09D08      L
         % 02.	HbO S04D01      R           % 22.	HbO S08D08      L
