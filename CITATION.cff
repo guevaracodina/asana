@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Goodrick"
+  given-names: "Michelle"
+  orcid: "https://orcid.org/0000-0001-8953-4161"
+- family-names: "Kolosovas-Machuca"
+  given-names: "Eleazar Samuel"
+  orcid: "https://orcid.org/0000-0002-7583-8655"
+- family-names: "Guevara"
+  given-names: "Edgar"
+  orcid: "https://orcid.org/0000-0002-2313-2810"
+title: "Yoga Asana Increases Pre-Frontal Cortex Activity and Reduces Resting State Functional Connectivity"
+version: 1.0.0
+doi: --
+date-released: 2024-01/11
+url: "https://github.com/guevaracodina/asana"
