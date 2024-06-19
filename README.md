@@ -14,3 +14,6 @@ Michelle Goodrick<sup>a</sup>, Eleazar Samuel Kolosovas-Machuca<sup>a,b</sup> an
 
 ## Summary
 27 healthy adults aged 18 to 65, underwent a 23-minute session of Yoga Asana practice. Participants were seated for six minutes before and after the session, with fNIRS used to measure pre-frontal cortical brain activity. The Yoga Asana session comprised four commonly practiced postures. Postures B, C and D changed automatically every 30 seconds in random order, with a baseline measurement of Posture A for a period of 25 – 30 seconds. This block was repeated during 23 minutes, resulting in 684 asana measurements and 864 baseline measurements total.
+
+## Dataset
+available at: https://zenodo.org/records/11098997
